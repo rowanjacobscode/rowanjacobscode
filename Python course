@@ -1,7 +1,7 @@
 Question 5
 The replace_ending function replaces a specified substring at the end of a given sentence with a new substring. If the specified substring does not appear at the end of the given sentence, no action is performed and the original sentence is returned. If there is more than one occurrence of the specified substring in the sentence, only the substring at the end of the sentence is replaced. For example, replace_ending("abcabc", "abc", "xyz") should return abcxyz, not xyzxyz or xyzabc. The string comparison is case-sensitive, so replace_ending("abcabc", "ABC", "xyz") should return abcabc (no changes made).  
 
-**Answer**
+Answer
 def replace_ending(sentence, old, new):
     # Check if the old substring is at the end of the sentence 
     if old == sentence[-len(old):]:
