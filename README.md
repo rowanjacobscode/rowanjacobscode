@@ -1,6 +1,6 @@
 👋 Hi, I’m @rowanjacobscode
 
-👀 I’m interested in exploring the vast and evolving world of technology. With a background in Business Control and a passion for digital innovation, I'm embarking on an exciting journey to become a developer.
+👀 I’m interested in exploring the rapidly evolving world of technology. With a background in Business Control and a passion for digital innovation, I'm embarking on an exciting journey to become a developer.
 
 🌱 I’m currently learning the fundamentals of programming, focusing on web development technologies such as HTML, CSS, JavaScript, and exploring frameworks like React.
 
