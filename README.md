@@ -8,5 +8,5 @@
 
 📫 How to reach me: You can contact me via LinkedIn.
 
-⚡ Fun fact: Alongside my career in IT and finance, I've developed websites and apps as hobby projects. Recently, I undertook a 2.5-month solo journey across the United States, which further ignited my passion for tech and international cultures.
+⚡ Fun fact: Alongside my career in IT and marketing, I've developed websites and apps as hobby projects. Recently, I undertook a 2.5-month solo journey across the United States, which further ignited my passion for tech and international cultures.
 
